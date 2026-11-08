@@ -1,0 +1,8 @@
+{
+  "name": "Remix SIP - Sedina ing Pati \u0026 Ekraf",
+  "description": "Portal interaktif wisata, ekonomi kreatif (Ekraf), direktori 135 destinasi, 20 paket itinerary Sedina ing Pati, peta interaktif, dan galeri Kabupaten Pati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
